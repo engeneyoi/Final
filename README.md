@@ -33,6 +33,12 @@ Task 7️⃣: Describe what tasks were completed, what screenshots correspond to
 
 Task 8️⃣: Make a pull request, write first name, last name and group in the request title.
  
+ ### Выполненные задачи
+- **Задача 1**: Создана ветка `Student_name`, сделаны три коммита (Скриншот 1).
+- **Задача 2**: Ветка `two` была слита с `three`, затем `three` был ребейзнут на `one` (Скриншот 2).
+- **Задача 3**: Ответы на вопросы добавлены в коммит `questions` (Скриншот 3).
+- ...
+
 
 
 
